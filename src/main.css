@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: sans-serif;
+}
+
+.bg__colors {
+    background-color: #202C36;
+}
+
+.countries-color {
+    background-color: #2B3844;
+}
